@@ -1,13 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: Roboyo Condensed ; 
 }
 
-img {
-    width: 400px;
-    height: 220px;
-}
-
-footer {
-    text-align: center;
-    margin-top: auto;
-}
